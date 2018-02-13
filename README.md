@@ -4,6 +4,7 @@ Homework code for PHP 2650: Statistical Learning and Big Data
 Assignment 1
 
 Objective: Basic webscraping & manipulate .csv files
+
 Techniques: Download html, html parsing, use cookies & crumbs to download files, make / edit / concatenate .csv files
 
 Part 1: S & P Stock Prices
